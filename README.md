@@ -17,7 +17,7 @@ Motivated MCA student with interest in software development, mobile applications
 
 | Qualification | Institution | Year |
 |---|---|---|
-| Master of Computer Applications (MCA) | [Your College Name] | Pursuing |
+| Master of Computer Applications (MCA) | [KS Rangasamy College of Technology] | Pursuing |
 | Bachelor Degree | [Your UG College Name] | Completed |
 | Higher Secondary | [School Name] | Completed |
 
